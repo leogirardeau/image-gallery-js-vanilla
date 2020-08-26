@@ -4,3 +4,26 @@
   box-sizing: border-box;
   font-family: "Montserrat", sans-serif;
 }
+
+body {
+  margin: 20px;
+  background: #333;
+}
+
+.container {
+  max-width: 760px;
+  margin: auto;
+  border: #fff solid 3px;
+  background: #fff;
+}
+
+.main-img img,
+.imgs img {
+  width: 100%;
+}
+
+.imgs {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 5px;
+}
