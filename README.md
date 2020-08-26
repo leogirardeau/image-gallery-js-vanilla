@@ -2,4 +2,4 @@
 
 Making a Vanilla Javascript Image Gallery
 
-éeezfzefeez
+test pulling and pushing from github using git terminal
